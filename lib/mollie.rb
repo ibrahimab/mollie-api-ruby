@@ -1,0 +1,2 @@
+module Mollie
+end
